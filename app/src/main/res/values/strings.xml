@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FashionDays</string>
+
+    <string name="product_image_content_description">Product image</string>
+    <string name="empty_list">No products found.</string>
+    <string name="error">Error trying to get data from server</string>
+    <string name="item_deleted">Item deleted</string>
+</resources>
